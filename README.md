@@ -21,8 +21,6 @@ Hi, I'm Prashanth Velagam, a passionate data enthusiast with a background in Pro
 ---
 [![](https://visitcount.itsvg.in/api?id=Velagamprashanth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Velagamprashanth/Velagamprashanth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Velagamprashanth/Velagamprashanth/output/github-snake.svg" />
